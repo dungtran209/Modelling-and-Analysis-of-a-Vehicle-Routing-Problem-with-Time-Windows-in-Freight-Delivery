@@ -19,6 +19,7 @@ Pseudo-code: [View](https://github.com/dungtran209/Modelling-and-Analysis-of-a-V
 Flowchart: [View](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20flowchart.png)
 
 Detailed elements of the GVNS:
+
 Element | Content
 ------------ | -------------
 Initial Solution Creation | Solomon I1 Heuristic and Clark & Wright Savings Heuristic
