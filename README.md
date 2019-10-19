@@ -12,7 +12,13 @@ Then, the methods are applied to solve an logistics problem in a UK-based compan
 
 ## Methodology Summary
 
-** General Variable Neighbourhood Search (GVNS) pseudo-code**
+**General Variable Neighbourhood Search (GVNS)**
+
+Pseudo-code
+![Image](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20pseudo-code.png)
+
+Flowchart
+![Image](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20flowchart.png)
 
 
 
