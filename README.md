@@ -19,6 +19,7 @@ Then, the methods are applied to solve an logistics problem in a UK-based compan
 MIP Model: [View](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/VRPTW%20MIP%20Model.pdf)
 
 
+
 **2. General Variable Neighbourhood Search (GVNS)**
 
 Pseudo-code: [View](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20pseudo-code.png)
@@ -38,7 +39,6 @@ Stopping Criteria | All neighbours (improvement operators) are explored
 ## Visualization
 
 Best solution (minimum total distance of all tours) found by the GVNS for benchmark instance R206 (100 customers)
-
 ![Image](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/data/1.%20Sample%20Dataset/R206.100.png)
 
 
