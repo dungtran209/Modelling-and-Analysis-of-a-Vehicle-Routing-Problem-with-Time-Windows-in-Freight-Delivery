@@ -10,7 +10,7 @@ s = time.time()
 import googlemaps
 
 # Requires API key
-gmaps = googlemaps.Client(key='AIzaSyBSzEO6ecgV6Kr8Vg-5dmb2ww4YFhyOM6s')
+gmaps = googlemaps.Client(key='') #Insert key
 
 dir_name = os.path.dirname(os.path.realpath('__file__'))
 file ="9Aug19"
