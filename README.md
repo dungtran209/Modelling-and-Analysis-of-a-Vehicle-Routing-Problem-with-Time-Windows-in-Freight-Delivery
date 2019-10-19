@@ -14,11 +14,18 @@ Then, the methods are applied to solve an logistics problem in a UK-based compan
 
 **General Variable Neighbourhood Search (GVNS)**
 
-Pseudo-code
-![Image](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20pseudo-code.png)
+Pseudo-code: [View](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20pseudo-code.png)
 
-Flowchart
-![Image](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20flowchart.png)
+Flowchart: [View](https://github.com/dungtran209/Modelling-and-Analysis-of-a-Vehicle-Routing-Problem-with-Time-Windows-in-Freight-Delivery/blob/master/algorithm/GVNS%20flowchart.png)
+
+Detailed elements of the GVNS:
+Element | Content
+------------ | -------------
+Initial Solution Creation | Solomon I1 Heuristic and Clark & Wright Savings Heuristic
+Improvement Operator | 2-opt, Or-opt, 2-opt*, Relocation, Exchange, CROSS, ICROSS, GENI, 𝜆-interchange
+Local Search Process | Variable Neighbourhood Descent (Best-accept strategy)
+Stopping Criteria | All neighbours (improvement operators) are explored
+
 
 
 
